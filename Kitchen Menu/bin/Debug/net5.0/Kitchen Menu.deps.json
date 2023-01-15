@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kitchen Menu/1.0.0": {
+        "runtime": {
+          "Kitchen Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kitchen Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
